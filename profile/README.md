@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Calipet Logo" src=".github/profile/image.png" width="100%">
+  <img alt="Calipet Logo" src="image.png" width="100%">
 </p> 
 
 # De Bico a Fucinho, Saúde é o Caminho!!
