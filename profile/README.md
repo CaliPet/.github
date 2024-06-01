@@ -2,7 +2,6 @@
   <img alt="Calipet Logo" src="https://github.com/CaliPet/.github/blob/main/profile/image.png" width="100%">
 </p> 
 
-# De Bico a Fucinho, Saúde é o Caminho!!
 ## Sobre Nós
 
 Somos uma empresa voltada para a alimentação de animais dómesticos urbanos. Temos como o objetivo disseminar que qualquer pessoa pode alimentar seu pet de forma digna, dando uma vida saudável para ele. Na CaliPet você não encontra somente receitas sobre alimentação de pets, mas encontra nosso amor e carinho por cada pet que nos propomos a cuidar. 
