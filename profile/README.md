@@ -7,13 +7,13 @@
 Somos uma empresa voltada para a alimentação de animais dómesticos urbanos. Temos como o objetivo disseminar que qualquer pessoa pode alimentar seu pet de forma digna, dando uma vida saudável para ele. Na CaliPet você não encontra somente receitas sobre alimentação de pets, mas encontra nosso amor e carinho por cada pet que nos propomos a cuidar. 
 
 ## Integrantes da CaliPet:
-- [Daniel Coutinho - Dev Backend e Banco de Dados](https://github.com/DanielMCoutinho);
-- [Gabriel Maranhão - Desiner e Dev Frontend](https://github.com/6a6r1e1);
-- [Gabriela Dias - Dev Backend e Banco de Dados](https://github.com/GabrielaDias1);
-- [Gerson Silva - PO e Dev FullStack](https://github.com/G3rsonBR)
-- [Guilherme Olivieri - Dev Backend e Banco de Dados](https://github.com/GuilhermeOlivieri);
-- [Vinicius Corrêa - Fincanceiro e Dev Backend](https://github.com/vinilapicos);
-- [Stephany Camily - Scrum e Dev Beckend](https://github.com/stefygrr)
+- [Daniel Coutinho](https://github.com/DanielMCoutinho) - Dev Backend e Banco de Dados
+- [Gabriel Maranhão](https://github.com/6a6r1e1) - Desiner e Dev Frontend
+- [Gabriela Dias](https://github.com/GabrielaDias1) - Dev Backend e Banco de Dados
+- [Gerson Silva](https://github.com/G3rsonBR) - PO e Dev FullStack
+- [Guilherme Olivieri](https://github.com/GuilhermeOlivieri) - Dev Backend e Banco de Dados
+- [Vinicius Corrêa](https://github.com/vinilapicos) - Fincanceiro e Dev Backend
+- [Stephany Camily](https://github.com/stefygrr) - Scrum e Dev Beckend
 
 ## Tecnologias utilizadas no Projeto
 - ReactTS;
