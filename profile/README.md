@@ -2,11 +2,17 @@
   <img alt="Calipet Logo" src="https://github.com/CaliPet/.github/blob/main/profile/image.png" width="100%">
 </p> 
 
-## Sobre Nós
+# Sobre Nós
 
 Somos uma empresa voltada para a alimentação de animais dómesticos urbanos. Temos como o objetivo disseminar que qualquer pessoa pode alimentar seu pet de forma digna, dando uma vida saudável para ele. Na CaliPet você não encontra somente receitas sobre alimentação de pets, mas encontra nosso amor e carinho por cada pet que nos propomos a cuidar. 
 
-## Integrantes da CaliPet:
+### Links Importantes
+- [CaliPet](https://calipet-ts.vercel.app/) - Plataforma Web
+- [Figma](https://www.figma.com/design/yAokFbiSfcJ0lFSXr8OD4K/Demo-Day?node-id=1-3&t=K17BWPFUoZoIWugD-1) - Protótipo no Figma
+- [Instagram](https://www.instagram.com/calipet.blog/) - Nosso Instagram
+- [LinkedIn](https://www.linkedin.com/company/grupocalipet/about/) - Nossa Empresa
+
+# Integrantes da CaliPet
 - [Daniel Coutinho](https://github.com/DanielMCoutinho) - Dev Backend e Banco de Dados
 - [Gabriel Maranhão](https://github.com/6a6r1e1) - Desiner e Dev Frontend
 - [Gabriela Dias](https://github.com/GabrielaDias1) - Dev Backend e Banco de Dados
@@ -15,14 +21,14 @@ Somos uma empresa voltada para a alimentação de animais dómesticos urbanos. T
 - [Vinicius Corrêa](https://github.com/vinilapicos) - Fincanceiro e Dev Backend
 - [Stephany Camily](https://github.com/stefygrr) - Scrum e Dev Beckend
 
-## Tecnologias utilizadas no Projeto
+# Tecnologias utilizadas no Projeto
 - ReactTS;
 - Vite;
 - TailwindCSS e ShadcnUI;
 - Java SpringBoot;
 - MySQL;
 
-## Entre em contato!
+# Entre em contato!
 <div>
   <a href="https://www.linkedin.com/company/grupocalipet/about/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
